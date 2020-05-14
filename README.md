@@ -14,8 +14,13 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 gatsby new gatsby-starter-paradigm-shift https://github.com/codebushi/gatsby-starter-paradigm-shift
 ```
 
+## Develop
+
 Run `gatsby develop` in the terminal to start the dev site.
 
 $ nvm use 10
 $ gastby develop
 running in http://localhost:8000
+
+## Deploy
+npm run deploy
